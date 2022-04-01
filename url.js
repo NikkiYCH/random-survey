@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://www.youtube.com/',
+	'https://www.google.com.tw/?hl=zh_TW',
+	'https://www.ikea.com.tw/zh'
 ];
