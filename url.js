@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://www.youtube.com/',
-	'https://www.google.com.tw/?hl=zh_TW',
-	'https://www.ikea.com.tw/zh'
+	'https://www.surveycake.com/s/naXa8',
+	'https://www.surveycake.com/s/aL7Lv',
+	'https://www.surveycake.com/s/B2y2w'
 ];
